@@ -1,4 +1,4 @@
-# azureML
+# AzureML
 Link to youtube video demonstrating my mini project on predicting the overall rating of football/soccer players
 
 A dataset for FIFA 18 was downloaded on kaggle. The dataset is very comprehensive and contains various features ranging from
